@@ -1,3 +1,3 @@
 print('Hello, I am Test1')
-print('Test NEW NEW')
+print('Test This is a new game')
 print('Test 1 again')
